@@ -1,8 +1,8 @@
 #
 #  .gitignore for Xcode development for all Apple platforms OS X, iOS, TV, Watch
-#  by illumineX, inc.
+#     by illumineX, inc.
 #     & Gary W. Longsine 
-#  Code: : https://github.com/illumineX/.gitignore-for-Xcode.git ://github.com/illumineX/.gitignore-for-Xcode.git 
+#  Code:  https://github.com/illumineX/.gitignore-for-Xcode.git
 #  Blog:  http://blog.illuminex.com/2009/10/better-sample-gitignore-file-for-xcode.html
 #  License:  MIT license.  Use it freely, share your improvements if you like.
 #  Purpose:  To prevent kruft from being accidentally checked into the Git repository, emphasis on Apple platforms, Objectie C and Swift
