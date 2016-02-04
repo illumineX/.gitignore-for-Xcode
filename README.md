@@ -4,7 +4,7 @@ A comprehensive .gitignore for Cocoa development on all Apple platforms (Mac OS 
 We first shared this in 2009, and it's been wildly popular. 
 
 The .gitignore file should prevent kruft from being checked into the Git repository.  It should
-default to excluding files that normally don't belong in a repository. Your applicatin might 
+default to excluding files that normally don't belong in a repository. Your application might 
 be an exception in some way.  For example, you might want to include a database template in the 
 application install. 
 
